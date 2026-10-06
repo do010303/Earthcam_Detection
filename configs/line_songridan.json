@@ -1,0 +1,16 @@
+{
+  "cam": "songridan",
+  "ref_size": [1280, 720],
+  "line_px": {"A": [565, 329], "B": [770, 413]},
+  "line_norm": {"A": [0.4414, 0.4569], "B": [0.6016, 0.5736]},
+  "directions": {
+    "toi_nha_hang": "tu goc quan ca phe (ben trai khung hinh) sang via he nha hang (phia xa)",
+    "ve_quan_ca_phe": "tu via he nha hang sang goc quan ca phe (ben trai khung hinh)"
+  },
+  "rules": {
+    "class": "person, chi nguoi di bo (khong tinh nguoi ngoi tren xe may, xe dap, xe lan dien)",
+    "count_once": true,
+    "max_error": 0.05
+  },
+  "note": "line_norm tinh theo vung video (khong tinh giao dien trinh duyet). Voi video quay man hinh, nhan voi kich thuoc vung video thuc te."
+}

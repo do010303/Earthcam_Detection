@@ -1,0 +1,37 @@
+{
+  "songridan": {
+    "role": "chinh",
+    "title": "Songridan-gil Cam (Seoul)",
+    "page": "https://www.earthcam.com/world/southkorea/seoul/songridangil/?cam=songridan_gil",
+    "cam_id": "songridan_gil",
+    "timezone": "Asia/Seoul"
+  },
+  "kathypub": {
+    "role": "du phong",
+    "title": "Kathy Pub, Gangnam (Seoul)",
+    "page": "https://myearthcam.com/kathypub",
+    "cam_id": "kathypub",
+    "timezone": "Asia/Seoul"
+  },
+  "abbeyroad": {
+    "role": "da loai",
+    "title": "Abbey Road Crossing Cam (London)",
+    "page": "https://www.earthcam.com/world/england/london/abbeyroad/",
+    "cam_id": "abbeyroad_uk",
+    "timezone": "Europe/London"
+  },
+  "bourbon": {
+    "role": "da loai",
+    "title": "New Orleans Bourbon Street",
+    "page": "https://www.earthcam.com/usa/louisiana/neworleans/bourbonstreet/",
+    "cam_id": "bourbonstreet",
+    "timezone": "America/Chicago"
+  },
+  "myrtlebeach": {
+    "role": "da loai",
+    "title": "Myrtle Beach Cam - North View",
+    "page": "https://www.earthcam.com/usa/southcarolina/myrtlebeach/?cam=myrtlebeach_hd2",
+    "cam_id": "myrtlebeach_hd2",
+    "timezone": "America/New_York"
+  }
+}

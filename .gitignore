@@ -1,0 +1,11 @@
+# du lieu va ket qua khong dua len git
+data/
+runs/
+*.mkv
+*.mp4
+*.pt
+*.onnx
+*.engine
+__pycache__/
+.venv/
+venv/
